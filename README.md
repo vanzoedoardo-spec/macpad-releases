@@ -6,7 +6,7 @@ computer. Questa repository contiene solo le versioni pubblicate.
 ## Installazione
 
 1. Scarica **[il file .dmg](https://github.com/vanzoedoardo-spec/macpad-releases/releases/latest/download/MacPad.dmg)**:
-   il link porta sempre all'ultima versione.
+   il link porta sempre all'ultima versione. Scaricando PageCave accetti i [termini d'uso](TERMINI.md).
 2. Apri il file e trascina PageCave nella cartella **Applicazioni**. Aperta direttamente dal `.dmg` l'app non può
    aggiornarsi.
 3. Avviala. La prima volta macOS chiede una conferma: vedi [Primo avvio](#primo-avvio).
@@ -59,5 +59,9 @@ l'avvio al login. Non tenere mai le due copie insieme.
 
 ## I tuoi dati
 
-Note e promemoria restano solo sul tuo Mac, in `~/Library/Application Support/it.archivagroup.macpad/`. Gli
-aggiornamenti non li toccano. Non c'è un account e non c'è un server.
+Note, promemoria e riunioni registrate restano solo sul tuo Mac, in
+`~/Library/Application Support/it.archivagroup.macpad/`. Gli aggiornamenti non li toccano. Non c'è un account e non
+c'è un server. I dettagli sono nell'[informativa privacy](PRIVACY.md).
+
+Prima di registrare una riunione avvisa chi partecipa: rispettare le leggi sulle registrazioni spetta a chi registra,
+come dicono i [termini d'uso](TERMINI.md).
